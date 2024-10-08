@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UltimateZombieSchoolSurvival_1.Character">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UltimateZombieSchoolSurvival_1.ForgetPassword">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ForgetPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UltimateZombieSchoolSurvival_1.LogIn">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAwAAAAIAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>LogIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UltimateZombieSchoolSurvival_1.Player">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UltimateZombieSchoolSurvival_1.Position">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UltimateZombieSchoolSurvival_1.Program">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UltimateZombieSchoolSurvival_1.SignUp">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAQAAAAAACAABAAACAAAAAAAAAAA=</HashCode>
+      <FileName>SignUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UltimateZombieSchoolSurvival_1.Zombie">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zombie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UltimateZombieSchoolSurvival_1.ZombieSwarm">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAIAAAAAAAAQAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>ZombieSwarm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
